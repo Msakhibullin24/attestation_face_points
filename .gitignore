@@ -1,5 +1,4 @@
 myvenv/
 *.csv
 *.pth
-*.png
 __pycache__/
