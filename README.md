@@ -37,5 +37,4 @@
 ![Результат работы проекта](image.png)
 
 
-![Рехультат толстой мождели )_](<img width="1581" height="726" alt="image" src="https://github.com/user-attachments/assets/e6c67672-b2a8-4d58-96d5-ac1b805cf335" />
-)
+![Рехультат толстой мождели )_](ыыыы.png)
