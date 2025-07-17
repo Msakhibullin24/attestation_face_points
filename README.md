@@ -1,37 +1,37 @@
-# Facial Keypoint Detection Project
+# Проект по распознаванию ключевых точек лица
 
-This project is designed to detect facial keypoints from an image.
+Этот проект предназначен для распознавания ключевых точек на изображении лица.
 
-## How to Test
+## Как протестировать
 
-1.  **Set up the environment:**
-    *   Ensure you have Python installed.
-    *   It is recommended to use a virtual environment.
+1.  **Настройка окружения:**
+    *   Убедитесь, что у вас установлен Python.
+    *   Рекомендуется использовать виртуальное окружение.
     ```bash
     python -m venv myvenv
     source myvenv/bin/activate
     ```
-    *   Install the required dependencies:
+    *   Установите необходимые зависимости:
     ```bash
     pip install -r requirements.txt 
     ```
-    *(Note: A `requirements.txt` file is not present. You may need to create one based on the project's imports.)*
+    *(Примечание: файл `requirements.txt` отсутствует. Возможно, вам потребуется создать его на основе импортов в проекте.)*
 
-2.  **Train the model (if necessary):**
-    *   The training data is expected in `training.csv`.
-    *   Run the training script:
+2.  **Обучение модели (при необходимости):**
+    *   Данные для обучения ожидаются в файле `training.csv`.
+    *   Запустите скрипт обучения:
     ```bash
     python train.py
     ```
 
-3.  **Run the main application:**
-    *   The main script will process an image and display the results.
+3.  **Запуск основного приложения:**
+    *   Основной скрипт обработает изображение и отобразит результаты.
     ```bash
     python main.py
     ```
 
-## Example Result
+## Пример результата
 
-Here is an example of the model's output on a test image:
+Вот пример вывода модели на тестовом изображении:
 
-![Project Result](image.png)
+![Результат работы проекта](image.png)
